@@ -656,4 +656,67 @@
 	<teleport id="10035" loc_x="146705" loc_y="25840" loc_z="-2000" price="17000" fornoble="0"/>
 	<teleport id="10036" loc_x="164564" loc_y="-48145" loc_z="-3536" price="11000" fornoble="0"/>
 	<teleport id="10037" loc_x="144880" loc_y="-113468" loc_z="-2560" price="14000" fornoble="0"/>
+	
+	
+<!-- 	CUSTOM  -->
+
+    <teleport id="50041" loc_x="9760" loc_y="15571" loc_z="-4575" price="14000" fornoble="0"/>
+	<teleport id="50042" loc_x="115143" loc_y="-178271" loc_z="-902" price="14000" fornoble="0"/>
+	<teleport id="50043" loc_x="46896" loc_y="51427" loc_z="-2977" price="14000" fornoble="0"/>
+	<teleport id="50044" loc_x="-45156" loc_y="-112592" loc_z="-240" price="14000" fornoble="0"/>
+	<teleport id="50045" loc_x="-84118" loc_y="244530" loc_z="-3730" price="14000" fornoble="0"/>
+	<teleport id="50046" loc_x="-80745" loc_y="149897" loc_z="-3047" price="14000" fornoble="0"/>
+	<teleport id="50047" loc_x="-12687" loc_y="122774" loc_z="-3111" price="14000" fornoble="0"/>
+	<teleport id="50048" loc_x="15748" loc_y="142823" loc_z="-2706" price="14000" fornoble="0"/>
+	<teleport id="50049" loc_x="83385" loc_y="147972" loc_z="-3408" price="14000" fornoble="0"/>
+	<teleport id="50050" loc_x="117078" loc_y="76962" loc_z="-2697" price="14000" fornoble="0"/>
+	<teleport id="50051" loc_x="146361" loc_y="25807" loc_z="-2016" price="14000" fornoble="0"/>
+	<teleport id="50052" loc_x="147936" loc_y="-55256" loc_z="-2729" price="14000" fornoble="0"/>
+	<teleport id="50053" loc_x="87380" loc_y="-143240" loc_z="-1288" price="14000" fornoble="0"/>
+	<teleport id="50054" loc_x="43776" loc_y="-47748" loc_z="-797" price="14000" fornoble="0"/>
+	<teleport id="50055" loc_x="82928" loc_y="53191" loc_z="-1496" price="14000" fornoble="0"/>
+	<teleport id="50056" loc_x="111373" loc_y="219330" loc_z="-3546" price="14000" fornoble="0"/>
+	<teleport id="50057" loc_x="-42553" loc_y="119879" loc_z="-3538" price="14000" fornoble="0"/>
+	<teleport id="50058" loc_x="-19971" loc_y="137825" loc_z="-3883" price="14000" fornoble="0"/>
+	<teleport id="50059" loc_x="8148" loc_y="12803" loc_z="-3693" price="14000" fornoble="0"/>
+	<teleport id="50060" loc_x="17192" loc_y="114178" loc_z="-3434" price="14000" fornoble="0"/>
+	<teleport id="50061" loc_x="73091" loc_y="117931" loc_z="-3711" price="14000" fornoble="0"/>
+	<teleport id="50062" loc_x="122753" loc_y="111077" loc_z="-3736" price="14000" fornoble="0"/>
+	<teleport id="50063" loc_x="131495" loc_y="114441" loc_z="-3717" price="14000" fornoble="0"/>
+	<teleport id="50064" loc_x="51055" loc_y="141959" loc_z="-2864" price="14000" fornoble="0"/>
+	<teleport id="50065" loc_x="48004" loc_y="186743" loc_z="-3489" price="14000" fornoble="0"/>
+	<teleport id="50066" loc_x="148554" loc_y="-11346" loc_z="-4389" price="14000" fornoble="0"/>
+	<teleport id="50067" loc_x="172136" loc_y="20325" loc_z="-3321" price="14000" fornoble="0"/>
+	<teleport id="50068" loc_x="185395" loc_y="20359" loc_z="-3265" price="14000" fornoble="0"/>
+	<teleport id="50069" loc_x="174528" loc_y="52683" loc_z="-4364" price="14000" fornoble="0"/>
+	<teleport id="50070" loc_x="151419" loc_y="46710" loc_z="-3411" price="14000" fornoble="0"/>
+	<teleport id="50071" loc_x="165379" loc_y="-47607" loc_z="-3592" price="14000" fornoble="0"/>
+	<teleport id="50072" loc_x="125554" loc_y="-40957" loc_z="-3719" price="14000" fornoble="0"/>
+	<teleport id="50073" loc_x="146890" loc_y="-67451" loc_z="-3663" price="14000" fornoble="0"/>
+	<teleport id="50074" loc_x="149644" loc_y="-112416" loc_z="-2065" price="14000" fornoble="0"/>
+	<teleport id="50075" loc_x="170723" loc_y="-116207" loc_z="-2062" price="14000" fornoble="0"/>
+	<teleport id="50076" loc_x="38015" loc_y="-38305" loc_z="-3604" price="14000" fornoble="0"/>
+	<teleport id="50077" loc_x="92230" loc_y="-57921" loc_z="-2925" price="14000" fornoble="0"/>
+	<teleport id="50078" loc_x="59651" loc_y="-48245" loc_z="-2750" price="14000" fornoble="0"/>
+	<teleport id="50079" loc_x="67992" loc_y="-72012" loc_z="-3743" price="14000" fornoble="0"/>
+	<teleport id="50080" loc_x="186920" loc_y="-75577" loc_z="-2834" price="14000" fornoble="0"/>
+	<teleport id="50081" loc_x="-41561" loc_y="209812" loc_z="-5086" price="14000" fornoble="0"/>
+	<teleport id="50082" loc_x="45251" loc_y="123890" loc_z="-5415" price="14000" fornoble="0"/>
+	<teleport id="50083" loc_x="111273" loc_y="174015" loc_z="-5417" price="14000" fornoble="0"/>
+	<teleport id="50084" loc_x="-21726" loc_y="77385" loc_z="-5177" price="14000" fornoble="0"/>
+	<teleport id="50085" loc_x="-52254" loc_y="79103" loc_z="-4743" price="14000" fornoble="0"/>
+	<teleport id="50086" loc_x="118308" loc_y="132800" loc_z="-4833" price="14000" fornoble="0"/>
+	<teleport id="50087" loc_x="83000" loc_y="209213" loc_z="-5443" price="14000" fornoble="0"/>
+	<teleport id="50088" loc_x="172251" loc_y="-17605" loc_z="-4903" price="14000" fornoble="0"/>
+	<teleport id="50089" loc_x="-53187" loc_y="-250271" loc_z="-7906" price="14000" fornoble="0"/>
+	<teleport id="50090" loc_x="46529" loc_y="170248" loc_z="-4979" price="14000" fornoble="0"/>
+	<teleport id="50091" loc_x="-20248" loc_y="-250791" loc_z="-8163" price="14000" fornoble="0"/>
+	<teleport id="50092" loc_x="140404" loc_y="79678" loc_z="-5431" price="14000" fornoble="0"/>
+	<teleport id="50093" loc_x="-19500" loc_y="13508" loc_z="-4905" price="14000" fornoble="0"/>
+	<teleport id="50094" loc_x="12519" loc_y="-248498" loc_z="-9580" price="14000" fornoble="0"/>
+	<teleport id="50095" loc_x="112209" loc_y="16078" loc_z="928" price="14000" fornoble="0"/>
+	<teleport id="50096" loc_x="115314" loc_y="16737" loc_z="9007" price="14000" fornoble="0"/>
+	<teleport id="50097" loc_x="117147" loc_y="18415" loc_z="4977" price="14000" fornoble="0"/>
+	<teleport id="50098" loc_x="13764" loc_y="-18702" loc_z="-3060" price="14000" fornoble="0"/>
+	<teleport id="50099" loc_x="47989" loc_y="186737" loc_z="-3489" price="14000" fornoble="0"/>
 </list>
